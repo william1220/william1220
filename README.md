@@ -3,7 +3,7 @@
  
 <h1 align="center">Hi 👋, I'm William</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+William+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+I+am+William+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 <h3 align="center">A dedicated Full Stack Developer.</h3>
 
