@@ -1,4 +1,6 @@
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+William+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm William</h1>
 <h3 align="center">A dedicated Full Stack Developer.</h3>
 
