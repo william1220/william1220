@@ -7,6 +7,15 @@
 
 <h3 align="center">A dedicated Full Stack Developer.</h3>
 
+### 👦 About Me
+- 👨‍💻 I'm a Tech Enthusiast and a graduate of Le Wagon Bootcamp.
+
+- 🔭 I’m currently working as a Nurse
+
+- 🌱 I’m currently developing and learning **JavaScript, Node.js, and other full-stack tools.**
+
+- ⚡ Fun fact : **My Git-Hub codes = 30% Me + 30% StackOverflow + 40% Google**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=william1220&label=Profile%20views&color=0e75b6&style=flat" alt="william1220" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=william1220" alt="william1220" /></a> </p>
