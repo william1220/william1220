@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working as a Nurse
 
-- 🌱 I’m currently developing and learning **JavaScript, Node.js, and other full-stack tools.**
+- 🌱 I’m currently developing and learning **Ruby, Ruby on Rails, Javascript and other full-stack tools.**
 
 - ⚡ Fun fact : **My Git-Hub codes = 30% Me + 30% StackOverflow + 40% Google**
 
