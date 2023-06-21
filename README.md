@@ -22,6 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ www.linkedin.com/in/williamgdelarosa
 </p>
 
 ### 🔥 My Stats 
