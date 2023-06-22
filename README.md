@@ -18,8 +18,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=william1220&label=Profile%20views&color=0e75b6&style=flat" alt="william1220" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=william1220" alt="william1220" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  - www.linkedin.com/in/williamgdelarosa
