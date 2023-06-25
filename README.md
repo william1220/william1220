@@ -10,7 +10,7 @@
 ### 👦 About Me
 - 👨‍💻 I'm a Tech Enthusiast and a graduate of Le Wagon Bootcamp.
 
-- 🔭 I’m currently working as a Nurse
+- 🔭 I’m currently working as a Nurse and currently looking for job as Web Developer.
 
 - 🌱 I’m currently developing and learning **Ruby, Ruby on Rails, Javascript, HTML, CSS, SQL and PostgreSQL.**
 
