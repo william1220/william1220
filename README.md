@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working as a Nurse and currently looking for job as Web Developer.
 
-- 🌱 I’m currently developing and learning **Ruby, Ruby on Rails, Javascript, HTML, CSS, SQL and PostgreSQL.**
+- 🌱 I’m currently developing and learning **React**
 
 - ⚡ Fun fact : **My Git-Hub codes = 30% Me + 30% StackOverflow + 40% Google**
 
