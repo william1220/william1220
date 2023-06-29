@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working as a Nurse and currently looking for job as Web Developer.
 
-- 🌱 I’m currently developing and learning **React**
+- 🌱 I’m currently developing and learning **Javascript(React)**
 
 - ⚡ Fun fact : **My Git-Hub codes = 30% Me + 30% StackOverflow + 40% Google**
 
