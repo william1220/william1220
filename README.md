@@ -12,7 +12,11 @@
 
 - 🔭 I’m currently working as a Nurse and currently looking for job as Web Developer.
 
-- 🌱 I’m currently developing and learning **Javascript(React)**
+- 🔭 I’m currently working on [front-end-development-with-scrimba](https://github.com/william1220/front-end-development-with-scrimba)
+
+- 🌱 I’m currently learning **The Frontend Developer Career Path with Scrimba**
+
+- 👨‍💻 All of my projects are available at [https://williamtechportfolio.live/](https://williamtechportfolio.live/)
 
 - ⚡ Fun fact : **My Git-Hub codes = 30% Me + 30% StackOverflow + 40% Google**
 
