@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working as a Nurse and currently looking for job as Web Developer.
 
-- 🔭 I’m currently working on [front-end-development-with-scrimba](https://github.com/william1220/front-end-development-with-scrimba)
+- 🔭 I’m currently working on [front-end-development-with-scrimba](https://front-end-with-scrimba.netlify.app/)
 
 - 🌱 I’m currently learning **The Frontend Developer Career Path with Scrimba**
 
