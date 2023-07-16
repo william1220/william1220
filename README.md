@@ -8,9 +8,9 @@
 <h3 align="center">A dedicated Full Stack Developer.</h3>
 
 ### 👦 About Me
-- 👨‍💻 I'm a Tech Enthusiast and a graduate of Le Wagon Bootcamp.
+- 👨‍💻 I'm a Tech Enthusiast and a graduate of Full Stack Web Development Le Wagon Bootcamp.
 
-- 🔭 I’m currently working as a Nurse and currently looking for job as Web Developer.
+- 🔭 I’m currently working as a Nurse and currently looking for job as a Web Developer.
 
 - 🔭 I’m currently working on [front-end-development-with-scrimba](https://front-end-with-scrimba.netlify.app/)
 
