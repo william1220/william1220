@@ -8,7 +8,10 @@
 <h3 align="center">A dedicated Full Stack Developer.</h3>
 
 
+
 ### 👦 About Me
+ <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 - 👨‍💻 I'm a Tech Enthusiast and a graduate of Full Stack Web Development Le Wagon Bootcamp.
 
 - 🔭 I’m currently working as a Nurse and currently looking for job as a Web Developer.
