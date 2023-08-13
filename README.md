@@ -3,11 +3,11 @@
  
 <h1 align="center">Hi! I'm William <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Welcome+to+my+Github+World.)](https://git.io/typing-svg)
 
-<h3 align="center">A dedicated Full Stack Developer.</h3>
-
-
+<h3 align="center">A Dedicated Full Stack Developer.</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=william1220&label=Profile%20views&color=0e75b6&style=flat" alt="william1220" /> </p>
+<br>
 
 ### 👦 About Me
  <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -31,10 +31,12 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/williamgdelarosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/williamgdelarosa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/williamgdelaros1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="williamgdelaros1" height="30" width="40" /></a>
 </p>
+<br>
+
 
 ### 🔥 My Stats 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=william1220&label=Profile%20views&color=0e75b6&style=flat" alt="william1220" /> </p>
+
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=william1220&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=william1220&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=william1220&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
