@@ -14,7 +14,7 @@
 
 - 👨‍💻 I'm a Tech Enthusiast and a graduate of Full Stack Web Development Le Wagon Bootcamp.
 
-- 🔭 I’m currently working as a Nurse and currently looking for job as a Web Developer.
+- 🔭 I’m currently working as a Nurse and currently looking for a job as a Web Developer.
 
 - 🔭 I’m currently working on [front-end-development-with-scrimba](https://front-end-with-scrimba.netlify.app/)
 
