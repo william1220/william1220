@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **The Frontend Developer Career Path with Scrimba**
 
-- 👨‍💻 All of my projects are available at [https://williamtechportfolio.netlify.app/](https://williamtechportfolio.netlify.app//)
+- 👨‍💻 All of my projects are available at [https://williamtechportfolio.netlify.app/](https://williamtechportfolio.netlify.app/)
 
 - ⚡ Fun fact : **My Git-Hub codes = 30% Me + 30% StackOverflow + 40% Google**
 
